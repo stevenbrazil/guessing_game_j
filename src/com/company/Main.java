@@ -29,11 +29,7 @@ public class Main {
                 
             }else if (choice < randNum){
                 System.out.println("The number is higher...");
-            }else {
-                System.out.println("Invalid selection...Please choose a number");
-                count--;
             }
-            
             
         }
     }
